@@ -11,5 +11,5 @@ USTH ICT 2024 Distributed Systems
 Group Info
 =======================
 
-* Name 1 (ID1)
+* Nguyễn Quốc Khánh (22bi13210)
 * Name 2 (ID2)
