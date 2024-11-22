@@ -12,4 +12,6 @@ Group Info
 =======================
 
 * Nguyễn Quốc Khánh (22bi13210)
-* Name 2 (ID2)
+* Phạm Tiến đạt (22bi13080)
+* Bùi Thành Vinh (22bi13469)
+* Phạm Đức Gia Hiển (22bi13155)
